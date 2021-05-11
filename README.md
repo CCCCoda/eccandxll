@@ -1,6 +1,6 @@
 # ecc and xll 's planet
 
-The official library of ecc and xll    ~(= v =)~
+The official library of ecc and xll    ~ (= v =) ~
 
 ## News
 2021/5 Haha! You found the (possible) New Protrait!
